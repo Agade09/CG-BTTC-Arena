@@ -1,5 +1,5 @@
 # CG-BTTC-Arena
-Referee program to play games between Back to the Code AIs (Codingame.com). **Linux only**. **1v1 only**.
+Referee program to play games between Back to the Code AIs (Codingame.com). **Linux only**. **1v1 only**. **Ignores BACK**.
 
 ## Usage:
 * Compile the Arena program
